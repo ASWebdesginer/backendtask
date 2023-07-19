@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,100;1,300&display=swap");
+
+#homepage h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: black;
+  margin-top: 10vh;
+  font-weight: 300;
+  font-family: "Lato", sans-serif;
+  font-size: 10vh;
+}
+#homepage .up {
+  margin-top: 0;
+  text-transform: uppercase;
+  margin-bottom: 10vh;
+  user-select: none;
+}
+#homepage p {
+  margin-left: 5vw;
+  overflow-wrap: break-word;
+  padding-right: 3vh;
+}
+body {
+  background-color: #55d9f0a4;
+  cursor: default;
+}
